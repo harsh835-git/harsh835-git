@@ -96,15 +96,17 @@ A currency conversion project demonstrating frontend development skills.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=harsh835-git&show_icons=true&theme=tokyonight&hide_border=true" />
+    src="https://github-stats-extended.vercel.app/api?username=harsh835-git&show_icons=true&theme=tokyonight&hide_border=true" />
 
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh835-git&layout=compact&theme=tokyonight&hide_border=true" />
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=harsh835-git&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
