@@ -122,7 +122,7 @@ A currency conversion project demonstrating frontend development skills.
   <a href="https://github.com/harsh835-git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/harsh-soni-9ab06a301/)">
+  <a href="https://www.linkedin.com/in/harsh-soni-9ab06a301/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
