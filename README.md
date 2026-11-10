@@ -1,3 +1,4 @@
+
 # 👋 Hey, I'm Harsh Soni!
 
 ### 💻 MERN Stack Developer | Full-Stack Web Developer | Problem Solver
@@ -24,21 +25,25 @@ I'm a passionate **MERN Stack Developer** who loves building modern, responsive,
 ## 🛠️ Tech Stack & Tools
 
 ### Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
 ### Backend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools & Technologies
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
@@ -94,8 +99,11 @@ A currency conversion project demonstrating frontend development skills.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh835-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh835-git&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=harsh835-git&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh835-git&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -108,10 +116,17 @@ A currency conversion project demonstrating frontend development skills.
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh835-git/harsh835-git/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/harsh835-git/harsh835-git/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/harsh835-git/harsh835-git/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/harsh835-git/harsh835-git/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -122,6 +137,7 @@ A currency conversion project demonstrating frontend development skills.
   <a href="https://github.com/harsh835-git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/harsh-soni-9ab06a301/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
